@@ -1,3 +1,5 @@
 # Generic README
 
-![VideoGif.gif](gifs/VideoGif.gif)
+<img src="gifs/VideoGif.gif" width="300">
+
+
